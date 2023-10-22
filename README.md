@@ -1,0 +1,1 @@
+These are my exercises that I did in my Full C# .Net Course. From the basics to advanced, all of them covers some aspects from the language and the framework. I also did other major projects along side, and I plan to upload on a separated directory.
