@@ -1,0 +1,14 @@
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\bin\Debug\net6.0\ExercicioFixacaoAbstracao.exe
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\bin\Debug\net6.0\ExercicioFixacaoAbstracao.deps.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\bin\Debug\net6.0\ExercicioFixacaoAbstracao.runtimeconfig.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\bin\Debug\net6.0\ExercicioFixacaoAbstracao.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\bin\Debug\net6.0\ExercicioFixacaoAbstracao.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.AssemblyInfoInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.AssemblyInfo.cs
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.csproj.CoreCompileInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\refint\ExercicioFixacaoAbstracao.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ExercicioFixacaoAbstracao.genruntimeconfig.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoAbstracao\ExercicioFixacaoAbstracao\obj\Debug\net6.0\ref\ExercicioFixacaoAbstracao.dll
