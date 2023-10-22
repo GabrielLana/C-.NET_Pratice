@@ -1,0 +1,14 @@
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\bin\Debug\net6.0\ExercicioFixacaoMatriz1.exe
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\bin\Debug\net6.0\ExercicioFixacaoMatriz1.deps.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\bin\Debug\net6.0\ExercicioFixacaoMatriz1.runtimeconfig.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\bin\Debug\net6.0\ExercicioFixacaoMatriz1.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\bin\Debug\net6.0\ExercicioFixacaoMatriz1.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.AssemblyInfoInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.AssemblyInfo.cs
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.csproj.CoreCompileInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\refint\ExercicioFixacaoMatriz1.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ExercicioFixacaoMatriz1.genruntimeconfig.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoMatriz1\ExercicioFixacaoMatriz1\obj\Debug\net6.0\ref\ExercicioFixacaoMatriz1.dll

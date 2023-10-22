@@ -1,0 +1,14 @@
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\bin\Debug\net6.0\ExercicioFixacaoVetores01.exe
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\bin\Debug\net6.0\ExercicioFixacaoVetores01.deps.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\bin\Debug\net6.0\ExercicioFixacaoVetores01.runtimeconfig.json
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\bin\Debug\net6.0\ExercicioFixacaoVetores01.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\bin\Debug\net6.0\ExercicioFixacaoVetores01.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.AssemblyInfoInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.AssemblyInfo.cs
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.csproj.CoreCompileInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\refint\ExercicioFixacaoVetores01.dll
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ExercicioFixacaoVetores01.genruntimeconfig.cache
+E:\Dev\SourceVisualStudio\ExercicioFixacaoVetores01\ExercicioFixacaoVetores01\obj\Debug\net6.0\ref\ExercicioFixacaoVetores01.dll

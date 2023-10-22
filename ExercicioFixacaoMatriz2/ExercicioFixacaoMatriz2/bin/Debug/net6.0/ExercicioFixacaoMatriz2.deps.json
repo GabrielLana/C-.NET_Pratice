@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ExercicioFixacaoMatriz2/1.0.0": {
+        "runtime": {
+          "ExercicioFixacaoMatriz2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ExercicioFixacaoMatriz2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
