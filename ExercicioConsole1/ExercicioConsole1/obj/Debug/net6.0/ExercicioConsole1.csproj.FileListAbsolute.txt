@@ -1,0 +1,17 @@
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\bin\Debug\net6.0\ExercicioConsole1.exe
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\bin\Debug\net6.0\ExercicioConsole1.deps.json
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\bin\Debug\net6.0\ExercicioConsole1.runtimeconfig.json
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\bin\Debug\net6.0\ExercicioConsole1.dll
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\bin\Debug\net6.0\ExercicioConsole1.pdb
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.csproj.AssemblyReference.cache
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.AssemblyInfoInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.AssemblyInfo.cs
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.csproj.CoreCompileInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.dll
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\refint\ExercicioConsole1.dll
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.pdb
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.genruntimeconfig.cache
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ref\ExercicioConsole1.dll
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.Properties.Resources.resources
+E:\Dev\SourceVisualStudio\ExercicioConsole1\ExercicioConsole1\obj\Debug\net6.0\ExercicioConsole1.csproj.GenerateResource.cache

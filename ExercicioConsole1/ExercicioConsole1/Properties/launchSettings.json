@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ExercicioConsole1": {
+      "commandName": "Project",
+      "commandLineArgs": "--progress"
+    }
+  }
+}
