@@ -1,0 +1,14 @@
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\bin\Debug\net6.0\ExercicioFixicacaoLists.exe
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\bin\Debug\net6.0\ExercicioFixicacaoLists.deps.json
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\bin\Debug\net6.0\ExercicioFixicacaoLists.runtimeconfig.json
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\bin\Debug\net6.0\ExercicioFixicacaoLists.dll
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\bin\Debug\net6.0\ExercicioFixicacaoLists.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.GeneratedMSBuildEditorConfig.editorconfig
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.AssemblyInfoInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.AssemblyInfo.cs
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.csproj.CoreCompileInputs.cache
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.dll
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\refint\ExercicioFixicacaoLists.dll
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.pdb
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ExercicioFixicacaoLists.genruntimeconfig.cache
+E:\Dev\SourceVisualStudio\ExercicioFixicacaoLists\ExercicioFixicacaoLists\obj\Debug\net6.0\ref\ExercicioFixicacaoLists.dll
