@@ -1,0 +1,15 @@
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\bin\Debug\net6.0\ExercicioFIxacaoExceptions.exe
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\bin\Debug\net6.0\ExercicioFIxacaoExceptions.deps.json
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\bin\Debug\net6.0\ExercicioFIxacaoExceptions.runtimeconfig.json
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\bin\Debug\net6.0\ExercicioFIxacaoExceptions.dll
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\bin\Debug\net6.0\ExercicioFIxacaoExceptions.pdb
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.csproj.AssemblyReference.cache
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.AssemblyInfoInputs.cache
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.AssemblyInfo.cs
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.dll
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\refint\ExercicioFIxacaoExceptions.dll
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.pdb
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ExercicioFIxacaoExceptions.genruntimeconfig.cache
+C:\Users\gabriel.lana\source\repos\ExercicioFIxacaoExceptions\ExercicioFIxacaoExceptions\obj\Debug\net6.0\ref\ExercicioFIxacaoExceptions.dll
